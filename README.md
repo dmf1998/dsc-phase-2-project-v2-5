@@ -6,8 +6,8 @@
 <figure>
     <img src="data/KC_WA.png"
          alt="Housing Markets!"
-         width="250"
-         height="150">
+         width="300"
+         height="300">
 </figure>
 
 ## Authors
@@ -22,7 +22,7 @@ Ryan Moore and Diego Fernandez
     <img src="data/blueprint.jpg"
          alt="Housing Markets!"
          width="300"
-         height="100">
+         height="150">
 </figure>
 
 <br/>
@@ -54,7 +54,7 @@ We utilized a year of housing sale data for our stakeholder-requested analysis
     <img src="data/scope.png"
          alt="Housing Markets!"
          width="300"
-         height="100">
+         height="150">
 </figure>
 
 <br/>
@@ -70,8 +70,8 @@ Inside of the real estate data, each row represented an individual sale of a pro
 <figure>
     <img src="data/cleaning.jpg"
          alt="Housing Markets!"
-         width="300"
-         height="100">
+         width="200"
+         height="200">
 </figure>
 
 <br/>
@@ -94,7 +94,7 @@ The sale date was also converted into a datetime object in split up between mont
     <img src="data/filter.png"
          alt="Housing Markets!"
          width="300"
-         height="100">
+         height="150">
 </figure>
 
 <br/>
@@ -111,7 +111,7 @@ As mentioend above, we filtered for records only inside of Washington state. We 
     <img src="data/bias.jpg"
          alt="Housing Markets!"
          width="300"
-         height="100">
+         height="150">
 </figure>
 
 <br/>
@@ -128,8 +128,8 @@ We also noted that there would be bias for ZIP Codes that had lower total price 
 <figure>
     <img src="data/method.png"
          alt="Housing Markets!"
-         width="150"
-         height="50">
+         width="200"
+         height="200">
 </figure>
 
 <br/>
@@ -148,7 +148,7 @@ For each ZIP Code, the loop would go through every potential combination of iden
     <img src="data/results.jpg"
          alt="Housing Markets!"
          width="300"
-         height="100">
+         height="150">
 </figure>
 
 <br/>
@@ -168,7 +168,7 @@ Our recommendations for the stakeholder are all rooted in application of the mod
     <img src="data/KC_WA.jpg"
          alt="Housing Markets!"
          width="300"
-         height="100">
+         height="150">
 </figure>
 
 <br/>
