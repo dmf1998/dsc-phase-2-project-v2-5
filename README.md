@@ -39,7 +39,7 @@ They have expressed that they want to cut down on 'unexplained factors' when it 
 
 Using multi-linear regression, the team determined which attributes in the data would be relevant to a developer and identified zip codes which can have their price fluctuations explained to a statistically significant degree. 
 
-The engagement team used an "adjusted r-squared" score of above .6 as appropriately predicatble and the success criteria. The engagement team identified 5 zip codes which meet the success criteria.
+The engagement team used an "adjusted r-squared" score of above .6 as appropriately predictable and the success criteria. The engagement team identified 5 zip codes which meet the success criteria.
 
 
 ## Data and Methodology
